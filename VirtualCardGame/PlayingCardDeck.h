@@ -11,7 +11,7 @@
 
 #import "Deck.h"
 
-@interface PlayingCardDeck : Deck
+@interfacePlayingCardDeck : Deck
 
 @end
 

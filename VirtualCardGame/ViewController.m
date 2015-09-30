@@ -5,7 +5,7 @@
 //  Created by Vilson Farias on 5/20/15.
 //  Copyright (c) 2015 ArcTouch. All rights reserved.
 //
-//branch04-02
+//branch04-03
 
 
 
@@ -21,7 +21,7 @@
 @property (weak, nonatomic) IBOutlet UILabel *scoreLabel;
 @end
 
-@implementationViewController
+@implementation ViewController
 
 - (PlayingCardGame *) game
 {

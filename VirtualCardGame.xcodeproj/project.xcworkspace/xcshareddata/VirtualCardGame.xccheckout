@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5A66CB6A-C13E-4DC7-AE92-DF9F29191087</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VirtualCardGame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ACCBF5C02FFEB07D23BA47A06D00B037A928EF8D</key>
+		<string>https://github.com/vilsonfarias/VirtualCardGame.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VirtualCardGame.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ACCBF5C02FFEB07D23BA47A06D00B037A928EF8D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vilsonfarias/VirtualCardGame.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ACCBF5C02FFEB07D23BA47A06D00B037A928EF8D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ACCBF5C02FFEB07D23BA47A06D00B037A928EF8D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VirtualCardGame</string>
+		</dict>
+	</array>
+</dict>
+</plist>

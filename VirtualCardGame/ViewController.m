@@ -5,7 +5,9 @@
 //  Created by Vilson Farias on 5/20/15.
 //  Copyright (c) 2015 ArcTouch. All rights reserved.
 //
-//branch04-01
+//branch04-02
+
+
 
 #import "ViewController.h"
 #import "Deck.h"
@@ -19,7 +21,7 @@
 @property (weak, nonatomic) IBOutlet UILabel *scoreLabel;
 @end
 
-@implementation ViewController
+@implementationViewController
 
 - (PlayingCardGame *) game
 {

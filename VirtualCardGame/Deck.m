@@ -11,7 +11,7 @@
 
 @end
 
-@implementationDeck
+@implementation Deck
 
 -(NSMutableArray *)cards {
     if (!_cards)

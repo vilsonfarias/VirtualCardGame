@@ -21,7 +21,7 @@
 @property (weak, nonatomic) IBOutlet UILabel *scoreLabel;
 @end
 
-@implementationViewController
+@implementation ViewController
 
 - (PlayingCardGame *) game
 {
